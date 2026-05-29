@@ -1,0 +1,34 @@
+{
+    "files.associations": {
+        "volumecontrolblock.h": "c",
+        "rootdir.h": "c",
+        "fslow.h": "c",
+        "stdio.h": "c"
+    },
+    "cSpell.words": [
+        "Almat",
+        "blossomxi",
+        "CFILES",
+        "cmdc",
+        "CMDCD",
+        "CMDCP",
+        "CMDLS",
+        "CMDMD",
+        "CMDMV",
+        "CMDRM",
+        "cmdv",
+        "commmand",
+        "flall",
+        "fllong",
+        "FSBM",
+        "FSLOW",
+        "hexdump",
+        "Linuxdestfile",
+        "Linuxsrcfile",
+        "properally",
+        "regonized",
+        "Rilles",
+        "testfs",
+        "vincivv"
+    ]
+}

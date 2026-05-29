@@ -1,0 +1,6 @@
+When is it ok to not define types? E.g. using int instead of uint32_t.
+
+Is free space supposed to have a structure associated with it or is it just a 5 blocks of bits
+    marking which tells you which blocks are used with 1 and which are free with 0?
+
+Is it ok to 
