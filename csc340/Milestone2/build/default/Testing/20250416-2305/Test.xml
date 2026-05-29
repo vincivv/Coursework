@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-c++"
+	BuildStamp="20250416-2305-Experimental"
+	Name="Diass-Laptop.local"
+	Generator="ctest-3.31.5"
+	CompilerName="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++"
+	CompilerVersion="16.0.0.16000026"
+	OSName="macOS"
+	Hostname="Diass-Laptop.local"
+	OSRelease="15.3.2"
+	OSVersion="24D81"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="Apple"
+	VendorID="Apple"
+	FamilyID="0"
+	ModelID="0"
+	ModelName="Apple M2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Apr 16 16:05 PDT</StartDateTime>
+		<StartTestTime>1744844711</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 16 16:05 PDT</EndDateTime>
+		<EndTestTime>1744844711</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,17 @@
+Processing testCase1:
+isEmpty: True
+Inserted at head: 50
+Inserted at head: 40
+Inserted at head: 30
+Inserted at tail: 60
+Inserted at tail: 70
+Inserted at tail: 80
+Inserted at tail: 90
+Inserted at head: 20
+Inserted at head: 10
+Inserted at tail: 100
+isEmpty: False
+List after testCase1:
+10 20 30 40 50 60 70 80 90 100 
+Reverse List after testCase1:
+100 90 80 70 60 50 40 30 20 10 

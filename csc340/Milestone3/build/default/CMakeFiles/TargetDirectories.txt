@@ -1,0 +1,3 @@
+/Users/vinci/Desktop/csc340/Milestone3/build/default/CMakeFiles/cache_manager.dir
+/Users/vinci/Desktop/csc340/Milestone3/build/default/CMakeFiles/edit_cache.dir
+/Users/vinci/Desktop/csc340/Milestone3/build/default/CMakeFiles/rebuild_cache.dir

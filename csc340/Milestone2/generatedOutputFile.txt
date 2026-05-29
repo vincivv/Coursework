@@ -1,0 +1,108 @@
+Processing testCase1:
+
+isEmpty: 1
+add key: 20
+add key: 30
+clear hash table
+isEmpty: 1
+add key: 40
+add key: 50
+remove key: 106
+isEmpty: 0
+Processing testCase2:
+
+add key: 42
+add key: 23
+add key: 67
+getNumberOfItems: 3
+add key: 80
+add key: 53
+add key: 86
+add key: 34
+add key: 9
+getNumberOfItems: 8
+remove key: 202
+getNumberOfItems: 8
+contains(702): 0
+contains(202): 0
+contains(901): 0
+Processing testCase3:
+
+add key: 106
+add key: 510
+add key: 108
+add key: 611
+contains(106): 1
+getNumberOfItems: 4
+remove key: 106
+contains(510): 1
+contains(106): 0
+getNumberOfItems: 3
+add key: 110
+add key: 111
+add key: 712
+add key: 113
+getNumberOfItems: 7
+remove key: 712
+getNumberOfItems: 6
+add key: 114
+add key: 115
+getNumberOfItems: 8
+Processing testCase4:
+
+add key: 101
+add key: 102
+add key: 103
+add key: 104
+add key: 105
+add key: 307
+remove key: 307
+getNumberOfItems: 5
+add key: 408
+add key: 509
+remove key: 509
+getNumberOfItems: 6
+add key: 201
+add key: 302
+add key: 403
+remove key: 201
+remove key: 101
+add key: 504
+add key: 605
+add key: 206
+remove key: 605
+getNumberOfItems: 9
+contains(509): 0
+contains(206): 1
+add key: 706
+contains(706): 1
+getNumberOfItems: 10
+Processing testCase5:
+
+add key: 101
+add key: 102
+add key: 103
+getNumberOfItems: 3
+add key: 104
+add key: 105
+add key: 307
+remove key: 101
+getNumberOfItems: 5
+add key: 202
+add key: 303
+add key: 404
+add key: 201
+remove key: 404
+add key: 302
+add key: 403
+add key: 504
+remove key: 504
+remove key: 201
+getNumberOfItems: 9
+contains(201): 0
+contains(504): 0
+contains(403): 1
+add key: 808
+add key: 902
+remove key: 303
+getNumberOfItems: 10

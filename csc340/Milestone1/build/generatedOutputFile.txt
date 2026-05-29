@@ -1,0 +1,89 @@
+Processing testCase1:
+isEmpty: True
+Inserted at head: 50
+Inserted at head: 40
+Inserted at head: 30
+Inserted at tail: 60
+Inserted at tail: 70
+Inserted at tail: 80
+Inserted at tail: 90
+Inserted at head: 20
+Inserted at head: 10
+Inserted at tail: 100
+isEmpty: False
+List after testCase1:
+10 20 30 40 50 60 70 80 90 100 
+Reverse List after testCase1:
+100 90 80 70 60 50 40 30 20 10 
+Processing testCase2:
+isEmpty: True
+Inserted at head: 30
+Removed: 30
+Inserted at tail: 40
+Inserted at head: 50
+Inserted at tail: 70
+Inserted at head: 80
+Inserted at head: 1000
+Removed: 70
+isEmpty: False
+List after testCase2:
+1000 80 50 40 
+Reverse List after testCase2:
+40 50 80 1000 
+Processing testCase3:
+isEmpty: True
+Inserted at head: 80
+Removed: 30
+Inserted at tail: 40
+Inserted at head: 50
+Removed header node
+Inserted at tail: 70
+Inserted at head: 180
+Inserted at head: 1000
+Removed tail node
+Removed: 50
+isEmpty: False
+List after testCase3:
+1000 180 80 40 
+Reverse List after testCase3:
+40 80 180 1000 
+Processing testCase4:
+isEmpty: True
+Inserted at head: 10
+Moved node to tail: 10
+Inserted at tail: 40
+Inserted at head: 50
+Moved node to tail: 50
+Inserted at tail: 70
+Moved node to head: 70
+Inserted at head: 180
+Inserted at head: 1000
+Removed tail node
+Removed: 180
+Inserted at head: 100
+Inserted at head: 10000
+Removed header node
+isEmpty: False
+List after testCase4:
+100 1000 
+Reverse List after testCase4:
+1000 100 
+Processing testCase5:
+isEmpty: True
+Inserted at head: 10
+Inserted at tail: 10000
+Moved node to tail: 50
+Inserted at head: 1000
+Inserted at tail: 50
+Inserted at tail: 70
+Removed header node
+Removed tail node
+Inserted at head: 80
+Moved node to tail: 50
+Moved node to head: 44
+Removed: 90
+Inserted at head: 88
+List after testCase5:
+88 80 10 10000 50 
+Reverse List after testCase5:
+50 10000 10 80 88 

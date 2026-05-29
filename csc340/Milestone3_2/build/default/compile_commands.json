@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3_2/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone3_2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/milestone3.dir/milestone3.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3_2/milestone3.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3_2/milestone3.cpp",
+  "output": "CMakeFiles/milestone3.dir/milestone3.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3_2/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone3_2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/milestone3.dir/cache_manager.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3_2/cache_manager.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3_2/cache_manager.cpp",
+  "output": "CMakeFiles/milestone3.dir/cache_manager.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3_2/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone3_2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/milestone3.dir/doubly_linked_list.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3_2/doubly_linked_list.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3_2/doubly_linked_list.cpp",
+  "output": "CMakeFiles/milestone3.dir/doubly_linked_list.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3_2/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone3_2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/milestone3.dir/hash_table.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3_2/hash_table.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3_2/hash_table.cpp",
+  "output": "CMakeFiles/milestone3.dir/hash_table.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3_2/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone3_2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/milestone3.dir/dll_node.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3_2/dll_node.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3_2/dll_node.cpp",
+  "output": "CMakeFiles/milestone3.dir/dll_node.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3_2/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone3_2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/milestone3.dir/hash_node.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3_2/hash_node.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3_2/hash_node.cpp",
+  "output": "CMakeFiles/milestone3.dir/hash_node.cpp.o"
+}
+]

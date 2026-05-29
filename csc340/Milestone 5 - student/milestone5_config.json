@@ -1,0 +1,19 @@
+{
+    "Milestone5": [
+        {
+            "files": [
+                {
+                    "inputFile": "milestone5.json",
+                    "outputFile": "generatedOutputFile.txt",
+					"errorLogFile":"logFile.txt"
+                }
+            ],
+            "defaultVariables": [
+                {
+                    "FIFOListSize": 10,
+                    "hashTableSize": 11
+                }
+            ]
+        }
+    ]
+}

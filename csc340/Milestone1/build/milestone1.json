@@ -1,0 +1,208 @@
+{
+    "DoublyLinkedList": [
+      {
+        "testCase1": [
+          {
+            "isEmpty": {}
+          },
+          {
+            "insertAtHead": 50
+          },
+          {
+            "insertAtHead": 40
+          },
+          {
+            "insertAtHead": 30
+          },
+          {
+            "insertAtTail": 60
+          },
+          {
+            "insertAtTail": 70
+          },
+          {
+            "insertAtTail": 80
+          },
+          {
+            "insertAtTail": 90
+          },
+          {
+            "insertAtHead": 20
+          },
+          {
+            "insertAtHead": 10
+          },
+          {
+            "insertAtTail": 100
+          },
+          {
+            "isEmpty": {}
+          }
+        ],
+        "testCase2": [
+          {
+            "isEmpty": {}
+          },
+          {
+            "insertAtHead": 30
+          },
+          {
+            "remove": 30
+          },
+          {
+            "insertAtTail": 40
+          },
+          {
+            "insertAtHead": 50
+          },
+          {
+            "insertAtTail": 70
+          },
+          {
+            "insertAtHead": 80
+          },
+          {
+            "insertAtHead": 1000
+          },
+          {
+            "remove": 70
+          },
+          {
+            "isEmpty": {}
+          }
+        ],
+        "testCase3": [
+          {
+            "isEmpty": {}
+          },
+          {
+            "insertAtHead": 80
+          },
+          {
+            "remove": 30
+          },
+          {
+            "insertAtTail": 40
+          },
+          {
+            "insertAtHead": 50
+          },
+          {
+            "removeHeaderNode": {}
+          },
+          {
+            "insertAtTail": 70
+          },
+          {
+            "insertAtHead": 180
+          },
+          {
+            "insertAtHead": 1000
+          },
+          {
+            "removeTailNode": {}
+          },
+          {
+            "remove": 50
+          },
+          {
+            "isEmpty": {}
+          }
+        ],
+        "testCase4": [
+          {
+            "isEmpty": {}
+          },
+          {
+            "insertAtHead": 10
+          },
+          {
+            "moveNodeToTail": 10
+          },
+          {
+            "insertAtTail": 40
+          },
+          {
+            "insertAtHead": 50
+          },
+          {
+            "moveNodeToTail": 50
+          },
+          {
+            "insertAtTail": 70
+          },
+          {
+            "moveNodeToHead": 70
+          },
+          {
+            "insertAtHead": 180
+          },
+          {
+            "insertAtHead": 1000
+          },
+          {
+            "removeTailNode": {}
+          },
+          {
+            "remove": 180
+          },
+          {
+            "insertAtHead": 100
+          },
+          {
+            "insertAtHead": 10000
+          },
+          {
+            "removeHeaderNode": {}
+          },
+          {
+            "isEmpty": {}
+          }
+        ],
+        "testCase5": [
+          {
+            "isEmpty": {}
+          },
+          {
+            "insertAtHead": 10
+          },
+          {
+            "insertAtTail": 10000
+          },
+          {
+            "moveNodeToTail": 50
+          },
+          {
+            "insertAtHead": 1000
+          },
+          {
+            "insertAtTail": 50
+          },
+          {
+            "insertAtTail": 70
+          },
+          {
+            "removeHeaderNode": {}
+          },
+          {
+            "removeTailNode": {}
+          },
+          {
+            "insertAtHead": 80
+          },
+          {
+            "moveNodeToTail": 50
+          },
+          {
+            "moveNodeToHead": 44
+          },
+          {
+            "remove": 90
+          },
+          {
+            "insertAtHead": 88
+          }
+        ]
+      }
+    ]
+}

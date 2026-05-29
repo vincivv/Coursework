@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone1/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone1 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/milestone1.dir/milestone1.cpp.o -c /Users/vinci/Desktop/csc340/Milestone1/milestone1.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone1/milestone1.cpp",
+  "output": "CMakeFiles/milestone1.dir/milestone1.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone1/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone1 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/milestone1.dir/doubly_linked_list.cpp.o -c /Users/vinci/Desktop/csc340/Milestone1/doubly_linked_list.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone1/doubly_linked_list.cpp",
+  "output": "CMakeFiles/milestone1.dir/doubly_linked_list.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone1/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone1 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/milestone1.dir/generate_output.cpp.o -c /Users/vinci/Desktop/csc340/Milestone1/generate_output.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone1/generate_output.cpp",
+  "output": "CMakeFiles/milestone1.dir/generate_output.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone1/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone1 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/milestone1.dir/dll_node.cpp.o -c /Users/vinci/Desktop/csc340/Milestone1/dll_node.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone1/dll_node.cpp",
+  "output": "CMakeFiles/milestone1.dir/dll_node.cpp.o"
+}
+]

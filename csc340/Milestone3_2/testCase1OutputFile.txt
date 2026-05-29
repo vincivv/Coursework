@@ -1,0 +1,39 @@
+Processing testCase1:
+
+isEmpty: 1
+add key to cacheManager: 20
+add key to cacheManager: 30
+clear cacheManager
+isEmpty: 1
+add key to cacheManager: 40
+add key to cacheManager: 50
+remove key: 106 from cacheManager
+
+isEmpty: 0
+
+
+Printing out the cache contents
+
+Here are the FIFO List contents: 
+FIFO Node key: 50 
+FIFO Node key: 40 
+End of FIFO List
+
+Here are the Hash Table contents (2 entries):
+Bucket 0: Empty
+Bucket 1: Empty
+Bucket 2: Empty
+Bucket 3: Empty
+Bucket 4: Empty
+Bucket 5: Empty
+Bucket 6: 
+FIFO info from cacheManager:  Node key: 50
+Bucket 7: 
+FIFO info from cacheManager:  Node key: 40
+Bucket 8: Empty
+Bucket 9: Empty
+Bucket 10: Empty
+End of table
+
+End of cache contents
+

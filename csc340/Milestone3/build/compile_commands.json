@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3/build",
+  "command": "/usr/bin/clang++  -I/Users/vinci/Desktop/csc340/Milestone3 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/cache_manager.dir/milestone3.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3/milestone3.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3/milestone3.cpp",
+  "output": "CMakeFiles/cache_manager.dir/milestone3.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3/build",
+  "command": "/usr/bin/clang++  -I/Users/vinci/Desktop/csc340/Milestone3 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/cache_manager.dir/cache_manager.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3/cache_manager.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3/cache_manager.cpp",
+  "output": "CMakeFiles/cache_manager.dir/cache_manager.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3/build",
+  "command": "/usr/bin/clang++  -I/Users/vinci/Desktop/csc340/Milestone3 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/cache_manager.dir/doubly_linked_list.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3/doubly_linked_list.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3/doubly_linked_list.cpp",
+  "output": "CMakeFiles/cache_manager.dir/doubly_linked_list.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3/build",
+  "command": "/usr/bin/clang++  -I/Users/vinci/Desktop/csc340/Milestone3 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/cache_manager.dir/hash_table.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3/hash_table.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3/hash_table.cpp",
+  "output": "CMakeFiles/cache_manager.dir/hash_table.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3/build",
+  "command": "/usr/bin/clang++  -I/Users/vinci/Desktop/csc340/Milestone3 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/cache_manager.dir/hash_node.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3/hash_node.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3/hash_node.cpp",
+  "output": "CMakeFiles/cache_manager.dir/hash_node.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone3/build",
+  "command": "/usr/bin/clang++  -I/Users/vinci/Desktop/csc340/Milestone3 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/cache_manager.dir/dll_node.cpp.o -c /Users/vinci/Desktop/csc340/Milestone3/dll_node.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone3/dll_node.cpp",
+  "output": "CMakeFiles/cache_manager.dir/dll_node.cpp.o"
+}
+]

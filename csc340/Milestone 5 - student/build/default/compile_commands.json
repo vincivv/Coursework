@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 5 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 5 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone5.dir/binary_search_tree.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 5 - student/binary_search_tree.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 5 - student/binary_search_tree.cpp",
+  "output": "CMakeFiles/milestone5.dir/binary_search_tree.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 5 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 5 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone5.dir/milestone5.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 5 - student/milestone5.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 5 - student/milestone5.cpp",
+  "output": "CMakeFiles/milestone5.dir/milestone5.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 5 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 5 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone5.dir/cache_manager.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 5 - student/cache_manager.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 5 - student/cache_manager.cpp",
+  "output": "CMakeFiles/milestone5.dir/cache_manager.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 5 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 5 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone5.dir/dll_node.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 5 - student/dll_node.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 5 - student/dll_node.cpp",
+  "output": "CMakeFiles/milestone5.dir/dll_node.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 5 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 5 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone5.dir/doubly_linked_list.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 5 - student/doubly_linked_list.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 5 - student/doubly_linked_list.cpp",
+  "output": "CMakeFiles/milestone5.dir/doubly_linked_list.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 5 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 5 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone5.dir/hash_node.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 5 - student/hash_node.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 5 - student/hash_node.cpp",
+  "output": "CMakeFiles/milestone5.dir/hash_node.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 5 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 5 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone5.dir/hash_table.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 5 - student/hash_table.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 5 - student/hash_table.cpp",
+  "output": "CMakeFiles/milestone5.dir/hash_table.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 5 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 5 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone5.dir/tree_node.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 5 - student/tree_node.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 5 - student/tree_node.cpp",
+  "output": "CMakeFiles/milestone5.dir/tree_node.cpp.o"
+}
+]

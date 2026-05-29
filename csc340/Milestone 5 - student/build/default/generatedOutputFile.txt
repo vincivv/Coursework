@@ -1,0 +1,418 @@
+
+Processing testCase1:
+
+
+isEmpty: 1
+add key to cacheManager: 20
+add key to cacheManager: 30
+clear cacheManager: 
+isEmpty: 1
+add key to cacheManager: 40
+add key to cacheManager: 50
+remove key: 106 from cacheManager
+isEmpty: 0
+Printing out the cache: 
+Here are the FIFO List contents: 
+40 
+50 
+
+End of FIFO List
+
+Here are the Hash Table contents (2 entries):
+Empty bucket: 0
+Empty bucket: 1
+Empty bucket: 2
+Empty bucket: 3
+Empty bucket: 4
+Empty bucket: 5
+
+
+Bucket 6: 
+FIFO info from cacheManager:  key: 50
+
+
+Bucket 7: 
+FIFO info from cacheManager:  key: 40
+Empty bucket: 8
+Empty bucket: 9
+Empty bucket: 10
+
+
+End of table
+
+
+Performing In-order traversal
+Node key: 40
+Node key: 50
+Performing Reverse-order traversal
+Node key: 50
+Node key: 40
+
+Processing testCase2:
+
+
+add key to cacheManager: 101
+add key to cacheManager: 102
+add key to cacheManager: 202
+getSize: 3
+add key to cacheManager: 303
+add key to cacheManager: 402
+add key to cacheManager: 502
+add key to cacheManager: 602
+add key to cacheManager: 702
+getSize: 8
+remove key: 202 from cacheManager
+getSize: 7
+contains(702): 1
+contains(202): 0
+contains(901): 0
+add key to cacheManager: 808
+remove key: 702 from cacheManager
+add key to cacheManager: 902
+Printing out the cache: 
+Here are the FIFO List contents: 
+101 
+102 
+303 
+402 
+502 
+602 
+808 
+902 
+
+End of FIFO List
+
+Here are the Hash Table contents (8 entries):
+
+
+Bucket 0: 
+FIFO info from cacheManager:  key: 902
+Empty bucket: 1
+
+
+Bucket 2: 
+FIFO info from cacheManager:  key: 101
+
+
+Bucket 3: 
+FIFO info from cacheManager:  key: 102
+Empty bucket: 4
+
+
+Bucket 5: 
+FIFO info from cacheManager:  key: 808
+
+
+Bucket 6: 
+FIFO info from cacheManager:  key: 303
+FIFO info from cacheManager:  key: 402
+
+
+Bucket 7: 
+FIFO info from cacheManager:  key: 502
+
+
+Bucket 8: 
+FIFO info from cacheManager:  key: 602
+Empty bucket: 9
+Empty bucket: 10
+
+
+End of table
+
+
+Performing In-order traversal
+Node key: 101
+Node key: 102
+Node key: 303
+Node key: 402
+Node key: 502
+Node key: 602
+Node key: 808
+Node key: 902
+Performing Reverse-order traversal
+Node key: 902
+Node key: 808
+Node key: 602
+Node key: 502
+Node key: 402
+Node key: 303
+Node key: 102
+Node key: 101
+
+Processing testCase3:
+
+
+getSize: 0
+add key to cacheManager: 106
+add key to cacheManager: 510
+add key to cacheManager: 108
+add key to cacheManager: 611
+contains(106): 1
+getSize: 4
+remove key: 106 from cacheManager
+contains(106): 0
+contains(510): 1
+getSize: 3
+add key to cacheManager: 110
+add key to cacheManager: 111
+add key to cacheManager: 712
+add key to cacheManager: 113
+getSize: 7
+remove key: 712 from cacheManager
+getSize: 6
+add key to cacheManager: 114
+add key to cacheManager: 115
+getSize: 8
+Printing out the cache: 
+Here are the FIFO List contents: 
+510 
+108 
+611 
+110 
+111 
+113 
+114 
+115 
+
+End of FIFO List
+
+Here are the Hash Table contents (8 entries):
+
+
+Bucket 0: 
+FIFO info from cacheManager:  key: 110
+
+
+Bucket 1: 
+FIFO info from cacheManager:  key: 111
+Empty bucket: 2
+
+
+Bucket 3: 
+FIFO info from cacheManager:  key: 113
+
+
+Bucket 4: 
+FIFO info from cacheManager:  key: 510
+FIFO info from cacheManager:  key: 114
+
+
+Bucket 5: 
+FIFO info from cacheManager:  key: 115
+
+
+Bucket 6: 
+FIFO info from cacheManager:  key: 611
+Empty bucket: 7
+Empty bucket: 8
+
+
+Bucket 9: 
+FIFO info from cacheManager:  key: 108
+Empty bucket: 10
+
+
+End of table
+
+
+Performing In-order traversal
+Node key: 108
+Node key: 110
+Node key: 111
+Node key: 113
+Node key: 114
+Node key: 115
+Node key: 510
+Node key: 611
+Performing Reverse-order traversal
+Node key: 611
+Node key: 510
+Node key: 115
+Node key: 114
+Node key: 113
+Node key: 111
+Node key: 110
+Node key: 108
+
+Processing testCase4:
+
+
+getSize: 0
+add key to cacheManager: 11
+add key to cacheManager: 22
+add key to cacheManager: 33
+add key to cacheManager: 44
+contains(106): 0
+getSize: 4
+remove key: 44 from cacheManager
+contains(44): 0
+contains(510): 0
+getSize: 3
+add key to cacheManager: 55
+add key to cacheManager: 66
+add key to cacheManager: 77
+add key to cacheManager: 88
+getSize: 7
+remove key: 77 from cacheManager
+getSize: 6
+add key to cacheManager: 99
+add key to cacheManager: 121
+add key to cacheManager: 110
+add key to cacheManager: 132
+add key to cacheManager: 143
+add key to cacheManager: 154
+getSize: 11
+Printing out the cache: 
+Here are the FIFO List contents: 
+22 
+33 
+55 
+66 
+88 
+99 
+121 
+110 
+132 
+143 
+154 
+
+End of FIFO List
+
+Here are the Hash Table contents (11 entries):
+
+
+Bucket 0: 
+FIFO info from cacheManager:  key: 22
+FIFO info from cacheManager:  key: 33
+FIFO info from cacheManager:  key: 55
+FIFO info from cacheManager:  key: 66
+FIFO info from cacheManager:  key: 88
+FIFO info from cacheManager:  key: 99
+FIFO info from cacheManager:  key: 121
+FIFO info from cacheManager:  key: 110
+FIFO info from cacheManager:  key: 132
+FIFO info from cacheManager:  key: 143
+FIFO info from cacheManager:  key: 154
+Empty bucket: 1
+Empty bucket: 2
+Empty bucket: 3
+Empty bucket: 4
+Empty bucket: 5
+Empty bucket: 6
+Empty bucket: 7
+Empty bucket: 8
+Empty bucket: 9
+Empty bucket: 10
+
+
+End of table
+
+
+Performing In-order traversal
+Node key: 22
+Node key: 33
+Node key: 55
+Node key: 66
+Node key: 88
+Node key: 99
+Node key: 110
+Node key: 121
+Node key: 132
+Node key: 143
+Node key: 154
+Performing Reverse-order traversal
+Node key: 154
+Node key: 143
+Node key: 132
+Node key: 121
+Node key: 110
+Node key: 99
+Node key: 88
+Node key: 66
+Node key: 55
+Node key: 33
+Node key: 22
+
+Processing testCase5:
+
+
+add key to cacheManager: 53
+add key to cacheManager: 42
+add key to cacheManager: 80
+getSize: 3
+add key to cacheManager: 23
+add key to cacheManager: 34
+add key to cacheManager: 86
+remove key: 101 from cacheManager
+getSize: 6
+add key to cacheManager: 67
+add key to cacheManager: 9
+getSize: 8
+printRange with low: 9 and high: 35
+Performing Range traversal
+Node key: 9
+Node key: 23
+Node key: 34
+Printing out the cache: 
+Here are the FIFO List contents: 
+53 
+42 
+80 
+23 
+34 
+86 
+67 
+9 
+
+End of FIFO List
+
+Here are the Hash Table contents (8 entries):
+Empty bucket: 0
+
+
+Bucket 1: 
+FIFO info from cacheManager:  key: 23
+FIFO info from cacheManager:  key: 34
+FIFO info from cacheManager:  key: 67
+Empty bucket: 2
+
+
+Bucket 3: 
+FIFO info from cacheManager:  key: 80
+Empty bucket: 4
+Empty bucket: 5
+Empty bucket: 6
+Empty bucket: 7
+Empty bucket: 8
+
+
+Bucket 9: 
+FIFO info from cacheManager:  key: 53
+FIFO info from cacheManager:  key: 42
+FIFO info from cacheManager:  key: 86
+FIFO info from cacheManager:  key: 9
+Empty bucket: 10
+
+
+End of table
+
+
+Performing In-order traversal
+Node key: 9
+Node key: 23
+Node key: 34
+Node key: 42
+Node key: 53
+Node key: 67
+Node key: 80
+Node key: 86
+Performing Reverse-order traversal
+Node key: 86
+Node key: 80
+Node key: 67
+Node key: 53
+Node key: 42
+Node key: 34
+Node key: 23
+Node key: 9

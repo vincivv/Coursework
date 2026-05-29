@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone2/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/milestone2.dir/milestone2.cpp.o -c /Users/vinci/Desktop/csc340/Milestone2/milestone2.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone2/milestone2.cpp",
+  "output": "CMakeFiles/milestone2.dir/milestone2.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone2/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/vinci/Desktop/csc340/Milestone2 -g -std=gnu++17 -arch arm64 -o CMakeFiles/milestone2.dir/hash_table.cpp.o -c /Users/vinci/Desktop/csc340/Milestone2/hash_table.cpp",
+  "file": "/Users/vinci/Desktop/csc340/Milestone2/hash_table.cpp",
+  "output": "CMakeFiles/milestone2.dir/hash_table.cpp.o"
+}
+]
