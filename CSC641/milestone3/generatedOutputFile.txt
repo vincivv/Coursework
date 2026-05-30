@@ -1,0 +1,50 @@
+
+Processing benchmark.
+
+
+Configuration for benchmark run:
+
+	testSize: 100
+	testIterations: 100
+
+Configuration for benchmark run:
+	testSize:                  100
+	testIterations:            100
+	degreeOfParallelism:       8
+	sleepInterval (ms):        0
+	getItemPerSlot (computed): 9
+	containsEvery  (computed): 5
+	Ratios (from JSON): getItem=80% add=9% c
+Aggregated method statistics across all threads:
+getItem: calls=80000000, avgMs=0.004, minMs=0.000, maxMs=1413.891
+add: calls=9000000, avgMs=0.003, minMs=0.000, maxMs=1173.930
+contains: calls=2000000, avgMs=0.005, minMs=0.000, maxMs=1340.711
+remove: calls=9000000, avgMs=0.001, minMs=0.000, maxMs=554.889
+clear: calls=1, avgMs=1.576, minMs=1.576, maxMs=1.576
+
+Clear time (ms): 1.580
+Total test time (ms): 10952511.698
+
+Cache Manager statistics:
+	hits: 80999499
+	misses: 1000501
+	evictions: 0
+	hit_ratio: 0.988
+
+Finished processing benchmark.
+End of tests.
+             -             -
+
+Final clear (called once): 0.122125 ms.
+
+Finished computation at Sun May 10 02:13:16 2026
+Number of Iterations (per thread): 100
+Degree of Parallelism:             8
+Total elapsed time:                0.038724s
+
+Cache Manager statistics:
+
+Finished processing benchmark.
+
+
+End of tests.
