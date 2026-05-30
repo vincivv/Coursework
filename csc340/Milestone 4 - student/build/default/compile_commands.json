@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 4 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 4 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone4.dir/binary_search_tree.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 4 - student/binary_search_tree.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 4 - student/binary_search_tree.cpp",
+  "output": "CMakeFiles/milestone4.dir/binary_search_tree.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 4 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 4 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone4.dir/milestone4.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 4 - student/milestone4.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 4 - student/milestone4.cpp",
+  "output": "CMakeFiles/milestone4.dir/milestone4.cpp.o"
+},
+{
+  "directory": "/Users/vinci/Desktop/csc340/Milestone 4 - student/build/default",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I\"/Users/vinci/Desktop/csc340/Milestone 4 - student\" -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.4.sdk -mmacosx-version-min=15.3 -o CMakeFiles/milestone4.dir/tree_node.cpp.o -c \"/Users/vinci/Desktop/csc340/Milestone 4 - student/tree_node.cpp\"",
+  "file": "/Users/vinci/Desktop/csc340/Milestone 4 - student/tree_node.cpp",
+  "output": "CMakeFiles/milestone4.dir/tree_node.cpp.o"
+}
+]

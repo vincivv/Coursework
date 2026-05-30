@@ -1,0 +1,116 @@
+Testing out global.
+
+
+Processing actions for: testCase1
+Tree is empty: Yes
+Added key: 20
+Added key: 30
+Tree cleared.
+Tree is empty: Yes
+Added key: 40
+Added key: 50
+Failed to remove key: 106
+Tree is empty: No
+Height of Tree is: 2
+Count of Tree nodes is: 2
+Listed on the next line is the Root node
+
+
+Processing actions for: testCase2
+Added key: 101
+Added key: 102
+Added key: 202
+Count of Tree nodes is: 3
+Added key: 303
+Added key: 402
+Added key: 502
+Added key: 602
+Added key: 702
+Count of Tree nodes is: 8
+Removed key: 202
+Count of Tree nodes is: 7
+TRUE, following key is in the tree: 702
+FALSE, following key is NOT in the tree: 202
+FALSE, following key is NOT in the tree: 901
+Added key: 808
+Removed key: 702
+Added key: 902
+Height of Tree is: 8
+Count of Tree nodes is: 8
+Listed on the next line is the Root node
+
+
+Processing actions for: testCase3
+Count of Tree nodes is: 0
+Added key: 106
+Added key: 510
+Added key: 108
+Added key: 611
+TRUE, following key is in the tree: 106
+Count of Tree nodes is: 4
+Removed key: 106
+FALSE, following key is NOT in the tree: 106
+TRUE, following key is in the tree: 510
+Count of Tree nodes is: 3
+Added key: 110
+Added key: 111
+Added key: 712
+Added key: 113
+Count of Tree nodes is: 7
+Removed key: 712
+Count of Tree nodes is: 6
+Added key: 114
+Added key: 115
+Count of Tree nodes is: 8
+Height of Tree is: 7
+Count of Tree nodes is: 8
+Listed on the next line is the Root node
+
+
+Processing actions for: testCase4
+Count of Tree nodes is: 0
+Added key: 11
+Added key: 22
+Added key: 33
+Added key: 44
+FALSE, following key is NOT in the tree: 106
+Count of Tree nodes is: 4
+Removed key: 44
+FALSE, following key is NOT in the tree: 44
+FALSE, following key is NOT in the tree: 510
+Count of Tree nodes is: 3
+Added key: 55
+Added key: 66
+Added key: 77
+Added key: 88
+Count of Tree nodes is: 7
+Removed key: 77
+Count of Tree nodes is: 6
+Added key: 99
+Added key: 121
+Added key: 110
+Added key: 132
+Added key: 143
+Added key: 154
+Count of Tree nodes is: 12
+Height of Tree is: 11
+Count of Tree nodes is: 12
+Listed on the next line is the Root node
+
+
+Processing actions for: testCase5
+Added key: 42
+Added key: 23
+Added key: 67
+Count of Tree nodes is: 3
+Added key: 80
+Added key: 53
+Added key: 86
+Failed to remove key: 101
+Count of Tree nodes is: 6
+Added key: 34
+Added key: 9
+Count of Tree nodes is: 8
+Height of Tree is: 4
+Count of Tree nodes is: 8
+Listed on the next line is the Root node

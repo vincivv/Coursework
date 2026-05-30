@@ -1,0 +1,31 @@
+Testing out global.
+
+
+Processing actions for: testCase1
+Tree is empty: Yes
+Added key: 20
+Added key: 30
+Tree cleared.
+Tree is empty: Yes
+Added key: 40
+Added key: 50
+Failed to remove key: 106
+Tree is empty: No
+Height of Tree is: 2
+Count of Tree nodes is: 2
+Listed on the next line is the Root node
+Node key: 40
+Performing Breadth First traversal
+Performing Depth First via PreOrder traversal
+Performing Pre-order traversal
+Node key: 40
+Node key: 50
+Performing In-order traversal
+Node key: 40
+Node key: 50
+Performing Post-order traversal
+Node key: 50
+Node key: 40
+Performing Pre-order traversal
+Node key: 40
+Node key: 50
